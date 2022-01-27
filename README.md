@@ -6,7 +6,7 @@ This package provides utility classes and functions.
 | :---: | :---: |
 | AsyncArray | [Spec](https://github.com/sustenage/ts-sustenage-core/blob/main/src/async-array.spec.ts) |
 | Duration   | [Spec](https://github.com/sustenage/ts-sustenage-core/blob/main/src/duration.spec.ts) |
-| Eighter    | [Spec](https://github.com/sustenage/ts-sustenage-core/blob/main/src/either.spec.ts) |
+| Either    | [Spec](https://github.com/sustenage/ts-sustenage-core/blob/main/src/either.spec.ts) |
 | Future     | [Spec](https://github.com/sustenage/ts-sustenage-core/blob/main/src/future.spec.ts) |
 | identity   | [Spec](https://github.com/sustenage/ts-sustenage-core/blob/main/src/identity.spec.ts) |
 | lazy       | [Spec](https://github.com/sustenage/ts-sustenage-core/blob/main/src/lazy.spec.ts) |
